@@ -23,4 +23,26 @@ Os dados foram obtidos atraves do site do [Spotify](https://www.spotify.com/br-p
 
 ## Desenvolvimento
 
+Após feito limpeza, tradução e alguns ajustes e correções dos dados foi possivel descobrir muitos fatos legais sobre meu histórico de musicas e apartir disso gerar graficos e tabelas como:</br>
+
+![num_bandas](https://user-images.githubusercontent.com/55562529/227737214-a8ba1159-f863-44eb-8993-9d0db30b9c3a.png)</br>
+![tempo_musicas](https://user-images.githubusercontent.com/55562529/227737640-1bad53af-a44d-4f2b-8e34-d1b2d0f4d33a.png)
+
+### Bandas mais tocadas 
+
+![bandas-minutos](https://user-images.githubusercontent.com/55562529/227737247-8d224a2d-6be5-4b66-82a8-d13c6b1114a0.png)
+
+### Bandas com mais musicas diferentes que eu ouvi
+
+![bandas-musicas](https://user-images.githubusercontent.com/55562529/227737345-2ba810de-0113-4b2a-a803-1c16a9e3c435.png)
+
+### Musicas da banda que eu mais ouvi
+
+![musicas_redhot](https://user-images.githubusercontent.com/55562529/227737717-959f640e-ef21-4ec3-8146-ba3f42c0dbe3.png)
+
+### 10 musicas mais ouvidas
+
+![musicas](https://user-images.githubusercontent.com/55562529/227737894-7114edab-3a74-4bdf-b5ad-e800090d7698.png)
+
+As listas completas estão no [notebook](https://github.com/wesleyfuchs/meu-spotify/blob/main/Analise.ipynb) 
 
